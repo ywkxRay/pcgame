@@ -1,0 +1,246 @@
+*{font-family: "Microsoft Yahei",Helvetica,sans-serif;}
+
+div.logo{width: 1120px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 10px;
+border-bottom: solid #ff3d3d 2px;
+height: 80px;}
+
+div.logo input{width: 340px;
+line-height: 28px;
+position: relative;
+left: 294px;
+top: -30px;}
+
+div.logo select{position: relative;
+left: 300px;
+top: -30px;
+height: 35px;
+width: 80px;
+padding-left: 8px;
+background-color:#C0BBBB;
+border-color: gray;}
+
+#search{position: relative;
+left: 288px;
+top: -16px;}
+
+div.logo li{display: inline;
+padding-right: 10px;
+font-size: 4px;}
+
+div.logo ul{list-style-type: none;
+position: relative;
+left: 480px;
+top: -40px;
+margin-bottom: 0px;}
+
+div.logo a{text-decoration: none;
+color: #999;}
+
+div.logo a:hover{text-decoration: underline;
+color: #ff3d3d;}
+
+#logopic{position: relative;
+left: 100px;}
+
+div.mainNav{width: 1120px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 10px;}
+
+div.mainNav ul{list-style-type: none;}
+
+div.mainNav a{text-decoration: none;
+font-size: 14px;
+line-height: 1.8em;
+color: #333;}
+
+div.mainNav a:hover{color: #ff3d3d;
+text-decoration: underline;}
+
+div.mainNav p a{color:#ff3d3d;
+	text-decoration: none;
+font-weight: bold;
+font-size: 14px;}
+
+div.mainNav p a:hover{text-decoration: underline;}
+
+div.JJ p{position: relative;
+left: 8px;
+top: -19px;}
+
+div.JJ ul{position: relative;
+left: 16px;
+top: -106px;}
+
+div.XY img{position: relative;
+left: 160px;
+top: -192px;}
+
+div.XY p{position: relative;
+left: 160px;
+top: -210px;}
+
+div.XY ul{position: relative;
+left: 170px;
+top: -300px;}
+
+div.WY img{position: relative;
+left: 320px;
+top: -390px;}
+
+div.WY p{position: relative;
+left: 324px;
+top: -406px;}
+
+div.WY ul{position: relative;
+left: 336px;
+top: -496px;}
+
+div.SY img{position: relative;
+left: 480px;
+top: -582px;}
+
+div.SY p{position: relative;
+left: 480px;
+top: -600px;}
+
+div.SY ul{position: relative;
+left: 490px;
+top: -690px;}
+
+div.DJ img{position: relative;
+left:640px;
+top: -776px; }
+
+div.DJ p{position: relative;
+left: 644px;
+top: -794px;}
+
+div.DJ ul{position: relative;
+left: 660px;
+top: -882px;}
+
+div.LB img{position: relative;
+left: 810px;
+top: -970px;}
+
+div.LB p{position: relative;
+left: 814px;
+top: -986px;}
+
+div.LB ul{position: relative;
+left: 830px;
+top: -1074px;}
+
+div.HD img{position: relative;
+left: 980px;
+top: -1160px;}
+
+div.HD p{position: relative;
+left: 984px;
+top: -1178px;}
+
+div.HD ul{position: relative;
+left: 1000px;
+top: -1265px;}
+
+div.mainNav{height: 80px;}
+
+div.subNav{width: 1120px;
+margin-left: auto;
+margin-right: auto;}
+
+ul.subNavOne li{display: inline;
+	padding:10px 20px;
+border:solid #e5e5e5 1px;
+margin-right: -6px;
+text-align:-webkit-match-parent;
+background-color: #f4f4f4;}
+
+ul.subNavOne{list-style-type: none;
+padding-left: 0px;}
+
+ul.subNavOne li:hover{background-color:white;
+border-bottom: none;
+border-top: #ff3d3d solid 2px;}
+
+ul.subNavTwo{list-style-type: none;
+position: relative;
+left: 900px;
+top: -36px;
+font-size: 14px;}
+
+ul.subNavTwo li{display:inline;}
+
+ul.subNavTwo a{color: #999;
+text-decoration: none;}
+
+ul.subNavTwo a:hover{color: #ff3d3d;
+text-decoration: underline;}
+
+ul.subNavThree li span{position: relative;
+top: 10px;
+display: block;
+text-align: center;
+font-size: 14px;
+}
+
+ul.subNavThree a{text-decoration: none;
+color: black;}
+
+ul.subNavThree a:hover{text-decoration: underline;
+color:  #ff3d3d;}
+
+ul.subNavThree{list-style-type: none;}
+
+ul.subNavThree li{display: inline-block;
+padding-right: 26px;}
+
+ul.subNavThree{padding-left: 20px;
+	padding-bottom: 30px;
+	padding-top: 10px;
+border:1px solid #e5e5e5;
+margin-top: -40px;}
+
+div.brands a{text-decoration: none;
+color: black;
+padding-right: 18px;}
+
+div.brands a:hover{color: #ff3d3d;
+text-decoration: underline;}
+
+div.brands{width: 1120px;
+margin-left: auto;
+margin-right: auto;
+	font-size: 14px;
+padding-left: 20px;}
+
+span.noOne{background-color: #ffaa00;
+color: white;
+padding-left:8px;
+padding-right: 8px;
+margin-right: 10px;}
+
+div.two ul{list-style-type: none;}
+
+div.two ul li ul{display: none;
+list-style-type: none;}
+
+div.two ul li ul li{padding-top: 6px;
+width: 400px;
+height: 400px;
+text-align: center;}
+
+div.two ul li{width: 40px;}
+
+div.two ul li:hover ul{display: block;
+position: relative;
+left: -40px;
+top: 0px;}
+
+
+width:375px;
+height:420px;
